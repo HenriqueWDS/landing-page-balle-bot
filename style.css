@@ -84,6 +84,7 @@ body {
 
 .main-content-written-button:hover {
   background-color: rgba(236, 214, 196, 0.53);
+  transform: scale(115%);
 }
 
 .main-content-image {
