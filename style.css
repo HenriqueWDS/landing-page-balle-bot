@@ -126,3 +126,10 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+.copyright{
+ color: #ffff;
+ margin: auto;
+ margin-top: 3px;
+ text-align: center;
+}
